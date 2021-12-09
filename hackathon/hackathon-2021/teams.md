@@ -207,7 +207,7 @@
    * Team members
       * ModestYjx, GitHub link: [ModestYjx](https://github.com/ModestYjx)
 
-* Deatils for the project
+* Details for the project
    * Project name
        * One-stop solution for computer-assisted strawberry picking agriculture based on artificial intelligence
    * Project Introduction
